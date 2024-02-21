@@ -7,7 +7,7 @@
     <title>Focusrite-Control (Install)</title>
     <authors>Focusrite</authors>
     <projectUrl>https://downloads.focusrite.com/focusrite/scarlett-3rd-gen/scarlett-4i4-3rd-gen</projectUrl>
-    <tags>focusrite-control SPACE_SEPARATED</tags>
+    <tags>focusrite-control focusrite audio audio-interfaces</tags>
     <summary>Focusrite Control is the standalone software for cotroling the Focusrite interfaces.</summary>
     <description>Focusrite Control is the standalone software where you will make various changes with the Focusrite interfaces. Unlike other interfaces that use physical controls, you can perform various functions in Focusrite Control. These functions include changing the input source between LINE and INSTRUMENT, turning the PAD on and off, and engaging the AIR preamp for each channel.</description>
     <iconUrl>https://rawcdn.githack.com/fmotzet/Focusrite-Control/d3491249b7d3bc3700067bf2b17f48eee12c878a/focusrite-logo.jpg</iconUrl>
